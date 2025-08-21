@@ -4,10 +4,6 @@ A demo site showcasing trauma-informed design, ethical alerts, and uplifting res
 
 [![Launch Site](https://img.shields.io/badge/Live%20Demo-trauma--support--hub-blue?style=for-the-badge)](https://viptechdev.github.io/trauma-support-hub/)
 
-<a href="https://viptechdev.github.io/trauma-support-hub/" target="_blank">
-  <img src="https://img.shields.io/badge/Launch-Site-blue?style=for-the-badge" alt="Launch Site">
-</a>
-
 🌐 **Live Site:** [Visit trauma-support-hub on GitHub Pages](https://viptechdev.github.io/trauma-support-hub/)
 
 ---
