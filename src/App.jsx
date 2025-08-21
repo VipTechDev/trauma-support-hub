@@ -1,25 +1,10 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import reactLogo from './assets/react.svg';
 import viteLogo from '/vite.svg';
 import './App.css';
 
 function App() {
   const [count, setCount] = useState(0);
-
-  useEffect(() => {
-    const banner = document.createElement('div');
-    banner.textContent = `Viewport width: ${window.innerWidth}px`;
-    banner.style.cssText = `
-      position: sticky;
-      top: 0;
-      background: #222;
-      color: white;
-      text-align: center;
-      padding: 6px;
-      z-index: 9999;
-    `;
-    document.body.prepend(banner);
-  }, []);
 
   return (
     <>
