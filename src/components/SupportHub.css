@@ -170,3 +170,59 @@ footer {
   font-size: 0.9rem;
   color: #6c757d;
 }
+
+@media (max-width: 600px) {
+  .support-hub-container {
+    padding: 10px;
+  }
+
+  header h1 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+  }
+
+  .description p {
+    font-size: 1rem;
+    margin-bottom: 15px;
+  }
+
+  .resources {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .resources ul {
+    width: 90%;
+    padding: 15px;
+  }
+
+  .uplifting-quotes {
+    max-width: 95%;
+    margin: 30px auto;
+    padding: 15px;
+  }
+
+  .quote {
+    font-size: 1.1rem;
+  }
+
+  .contact input,
+  .contact textarea {
+    width: 90%;
+  }
+
+  .get-help-button,
+  .next-quote-button,
+  .submit-button {
+    width: 100%;
+    font-size: 1rem;
+    padding: 12px;
+  }
+
+  footer {
+    font-size: 0.8rem;
+    text-align: center;
+    padding: 10px;
+  }
+}
