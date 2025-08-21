@@ -1,3 +1,7 @@
+# trauma-support-hub
+
+A demo site showcasing trauma-informed design, ethical alerts, and uplifting resources.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
