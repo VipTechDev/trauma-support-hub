@@ -39,6 +39,8 @@ Want to add a little “Remix Ideas” section next? Could be a fun way to spark
 
 ---
 
+🤝 Contributing
+
 Remix Ideas
 Looking to build your own supportive resource? Here are a few remix-friendly directions:
 - 🧘‍♀️ Mental Health Check-In App
