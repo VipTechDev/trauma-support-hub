@@ -24,7 +24,7 @@ This demo explores how web design can support emotional safety and healing. It i
 
 ---
 
-##🚀 Usage
+## Usage
 
 This demo is designed for learning, inspiration, and emotional support. You’re welcome to:
 - 🧪 Explore the live site and interact with its components
@@ -39,7 +39,7 @@ Want to add a little “Remix Ideas” section next? Could be a fun way to spark
 
 ---
 
-🤝 Contributing
+## Contributing
 
 Remix Ideas
 Looking to build your own supportive resource? Here are a few remix-friendly directions:
