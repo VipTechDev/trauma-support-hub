@@ -6,8 +6,6 @@ A demo site showcasing trauma-informed design, ethical alerts, and uplifting res
   <img src="https://img.shields.io/badge/Launch-Site-blue?style=for-the-badge" alt="Launch Site">
 </a>
 
-[🚀 Launch Trauma Support Hub](https://viptechdev.github.io/trauma-support-hub/)
-
 🌐 **Live Site:** [Visit trauma-support-hub on GitHub Pages](https://viptechdev.github.io/trauma-support-hub/)
 
 ---
